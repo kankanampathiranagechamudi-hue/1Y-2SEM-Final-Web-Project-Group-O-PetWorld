@@ -12,6 +12,7 @@
                 </a>
             </li>
             <li class="nav-item">
+                
                 <a class="nav-link <?php echo basename($_SERVER['PHP_SELF']) == 'products.php' ? 'active' : ''; ?>" href="products.php">
                     <i class="fas fa-box mr-2"></i>
                     Products
